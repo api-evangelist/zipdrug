@@ -1,4 +1,16 @@
 aid: zipdrug
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/zipdrug.png
 name: ZipDrug
 description: 'ZipDrug is a company surfaced as a portfolio company of lux-capital and added to the API
   Evangelist network as a stub for enrichment. Sector: healthcare. This profile is a lead awaiting the
